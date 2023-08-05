@@ -1,4 +1,4 @@
-def addition(a,b):
-    return a+b
+def addition(a,b,c,d):
+    print a+b+c+d
 def multiplication(a,b):
     return a*b
