@@ -1,3 +1,4 @@
-### Git and Git hub Tutoril
+### Git and Git hub Tutorial
 ## Krish Naik
-## Git Hub Totorial
+## Git Hub Tutorial
+## Krish Nayak GitHub Tutorial
