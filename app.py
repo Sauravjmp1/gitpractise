@@ -6,3 +6,7 @@ def multiplication(a,b):
     return a*b
 def Division(a,b):
     return a/b
+def substraction1(a,b):
+    return a-b
+def power1(a,b):
+    return a**b
